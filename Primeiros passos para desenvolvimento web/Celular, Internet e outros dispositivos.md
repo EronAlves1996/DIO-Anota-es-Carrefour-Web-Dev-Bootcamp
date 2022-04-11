@@ -10,6 +10,7 @@ SMS > MMS > Conexões Móveis
 4. EDGE: Enhanced Data rates for GSM Evolution ou 2,75G 128-236 kbps
 5. 3G/4G/5G
 
-## Wi-Fi
-
 ## Bluetooth
+
+Conexão ponto-a-ponto.
+
