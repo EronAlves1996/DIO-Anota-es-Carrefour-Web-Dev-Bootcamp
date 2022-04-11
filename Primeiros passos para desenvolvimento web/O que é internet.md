@@ -60,3 +60,11 @@ nordu.net
 * pop-up =  caixinhas que aparecem nos sites
 *Comentário do aluno: não confundir com modais*
 * youtuber = pessoa que trabalha fazendo vídeos no youtube
+
+
+## A internet atualmente
+
+75% dos brasileiros tem internet. Há uma década era apenas 41% dos habitantes tinha internet.
+Maiores acessos são de dispositivos móveis, o que é esperado visto que os dispositivos móveis estão mais capacitados para tal.
+Mensageiros e redes sociais são os mais utilizados atualmente.
+
