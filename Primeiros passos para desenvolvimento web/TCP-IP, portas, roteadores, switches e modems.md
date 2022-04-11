@@ -21,4 +21,16 @@ IP - Protocolo de Internet
 
 ## Portas
 
+Ports = porto. Problema de tradução.
+São por onde saem e chegam dados.
+
+### Convenção
+
+* 20: FTP
+* 22: SSH
+* 25: SMTP
+* 53: DNS
+* 80: HTTP
+* 443: HTTPS
+
 ## Roteadores, switches e modems
